@@ -1,0 +1,8 @@
+target
+.lein-*
+.log
+test
+logs
+testdir
+testdb
+input
